@@ -1,0 +1,7 @@
+.menu_principal{
+  padding: 0px 0px 0px 0px;
+}
+
+.menu_principal > li {
+  display: inline;
+}
